@@ -35,6 +35,7 @@ group :test do
   gem "factory_girl_rails"
   gem 'ffaker'
   gem "shoulda-matchers"
+  gem 'test-unit'
 end
 
 gem "devise"
